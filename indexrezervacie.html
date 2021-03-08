@@ -21,5 +21,38 @@
 
 <img class="logo" src="logo.png" width="690px" height="220px">
 
+<h1 class="rezervacia">Rezervujte si stôl!</h1>
+
+<div class="container">
+  <form action="/action_page.php">
+    <label for="fname">Vaše meno</label>
+    <input type="text" id="fname" name="meno" placeholder="Vaše meno..">
+
+    <label for="lname">Vaše priezvisko</label>
+    <input type="text" id="lname" name="priezvisko" placeholder="Vaše priezvisko..">
+
+    <label for="stôl">Vyberte si Váš stôl</label>
+    <select id="stôl" name="stôl">
+      <option value="pre 2">Pre dvoch</option>
+      <option value="pre 3">Pre troch</option>
+      <option value="pre 4">Pre štyroch</option>
+      <option value="pre 6">Pre šiestich</option>
+      <option value="rodinna oslava">Rodinná oslava (12 min.)</option>
+    </select>
+
+    <label for="pripomienky">Vaše pripomienky - nepovinné</label>
+    <textarea id="subject" name="subject" placeholder="Napíšte sem pripomienky.." style="height:200px"></textarea>
+
+    <input type="submit" value="Odoslať">
+  </form>
+</div>
+
+<footer>
+    <div class="footerrezervacia"></div>
+    
+    <div class="footerrezervacia2"><br><br><br><br>Reštaurácia Kajtink, Tieňová 119, Bratislava<br>
+        Tešíme sa na Vašu návštevu!<br><br><br><br><br>© Kajtink 2021 ©</div>
+    </footer>
+
 </body>
 </html>

@@ -439,3 +439,150 @@ font-size: 12px;
   margin-left: 40.1%;
   font-size: 12px;
   }
+
+
+.otvaraciehodiny{
+  font-family: 'Roboto', sans-serif;
+}
+  .hodiny{
+    width: 2%;
+  }
+  table{
+    
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+  }
+  .kontakty{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 2.5%;
+  }
+  .telefon{
+    margin-top: 1%;
+    float: left;
+    margin-left: 45%;
+  }
+  .telefontext{
+    margin-right: 45%;
+    margin-top: 1.5%;
+    font-family: 'Roboto', sans-serif;
+    float: right;
+  }
+  .mail{
+    margin-top: 0.8%;
+    margin-right: 1%;
+    float: right;
+  }
+  .mailtext{
+    margin-top: 1.5%;
+    margin-right: 44.8%;
+    font-family: 'Roboto', sans-serif;
+    float: right;
+  }
+ iframe{
+
+    margin-top: 10%;
+  }
+  .footerkontakt1{
+    bottom: 0;
+    background-color: #eba819;
+    width: 100%;
+    text-align: center;
+    left: 0;
+    background-repeat: no-repeat;
+    height: 110px;
+    margin-top: 10%;
+}
+.footerkontakt2{
+  bottom: 0;
+  background-color: #2b2b2b;
+  width: 100%;
+  text-align: center;
+  left: 0;
+  background-repeat: no-repeat;
+  height: 250px;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  }
+
+.rezervacia{
+  font-family: 'Roboto', sans-serif;
+  margin-top: 10%;
+}
+
+  input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    font-family: 'Roboto', sans-serif;
+    background-color: #eba819;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #ca9114;
+  }
+  
+  .container {
+    font-family: 'Roboto', sans-serif;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  
+  .footerrezervacia{
+      bottom: 0;
+      background-color: #eba819;
+      width: 100%;
+      text-align: center;
+      left: 0;
+      background-repeat: no-repeat;
+      height: 110px;
+      margin-top: 10%;
+  }
+  .footerrezervacia2{
+    bottom: 0;
+    background-color: #2b2b2b;
+    width: 100%;
+    text-align: center;
+    left: 0;
+    background-repeat: no-repeat;
+    height: 250px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    }
+  
+  
+    .onasnazov{
+      font-family: 'Roboto', sans-serif;
+    }
+    .onastext{
+      text-align: center;
+      width: 50%;
+      font-family: 'Roboto', sans-serif;
+    }
+    .onastext2{
+      text-align: center;
+      width: 50%;
+      font-family: 'Roboto', sans-serif;
+    }
+    .tunasnajdete{
+      margin-top: 3%;
+      font-family: 'Roboto', sans-serif;
+    }
+    .mapaonas{
+      margin-bottom: 5%;
+    }
