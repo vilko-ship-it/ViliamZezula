@@ -537,6 +537,7 @@ font-size: 12px;
   }
   
   .container {
+    margin-left: 36%;
     margin-top: 2%;
     width: 25%;
     font-family: 'Roboto', sans-serif;
